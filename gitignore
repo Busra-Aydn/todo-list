@@ -1,0 +1,5 @@
+*
+!todo-list/    # sadece todo-list klasörünü dahil et
+!*.html        # tüm HTML dosyalarını dahil et
+!*.css         # tüm CSS dosyalarını dahil et
+!*.js          # tüm JS dosyalarını dahil et
